@@ -1,5 +1,7 @@
 ### Kkaemi | SeongHyeon Ji
 
+- 🌱 I’m currently learning web development
+
 <!--
 **Kkaemi/Kkaemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +24,5 @@ Here are some ideas to get you started:
 ----
 
 👀 My GitHub Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kkaemi&hide=issues,contribs&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
