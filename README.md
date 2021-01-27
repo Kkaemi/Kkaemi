@@ -1,6 +1,7 @@
-### Kkaemi | SeongHyeon Ji
+### Hello! I'm SeongHyeon Ji 😃
 
 - 🌱 I’m currently learning web development
+- 🧑‍💻 I want to get a job
 
 <!--
 **Kkaemi/Kkaemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
