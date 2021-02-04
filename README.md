@@ -1,7 +1,7 @@
 ### Hello! I'm SeongHyeon Ji 😃
 
 - 🌱 I’m currently learning web development
-- 🧑‍💻 I want to get a job (<a href="https://www.notion.so/1fa8c2a21dff4cefaa6ec030c64c0e91">Go to Resume</a>)
+- 🧑‍💻 I want to get a job (~~<a href="https://www.notion.so/1fa8c2a21dff4cefaa6ec030c64c0e91">Go to Resume</a>~~ preparing)
 
 <!--
 **Kkaemi/Kkaemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
